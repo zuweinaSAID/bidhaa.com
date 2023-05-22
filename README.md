@@ -1,2 +1,2 @@
-# bidhaa.com
+# bidhaaZAkubuniwa
 ecommerce demo site
